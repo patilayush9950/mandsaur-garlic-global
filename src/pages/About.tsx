@@ -44,7 +44,7 @@ const About = () => {
             About Us
           </h1>
           <p className="text-lg md:text-xl text-gray-200 max-w-2xl mx-auto animate-fade-in">
-            Premium GI Tag Certified Mandsaur Garlic Exporter from India
+            Dnd Global Exports - Premium GI Tag Certified Mandsaur Garlic Exporter from India
           </p>
         </div>
       </section>
@@ -58,7 +58,7 @@ const About = () => {
                 <span className="text-primary font-semibold">Est. Since 2020</span>
               </div>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-                Leading Exporter of Premium Mandsaur Garlic
+                Dnd Global Exports - Leading Exporter of Premium Mandsaur Garlic
               </h2>
               <p className="text-muted-foreground mb-6 leading-relaxed">
                 Based in Namli, Madhya Pradesh, we are a certified exporter specializing in premium quality GI Tag certified Mandsaur garlic. Our commitment to excellence has made us a trusted partner for international buyers across USA, UK, UAE, Canada, Europe, Singapore, and beyond.

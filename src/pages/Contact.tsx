@@ -182,7 +182,7 @@ const Contact = () => {
                   </div>
                   <h3 className="font-semibold text-lg text-foreground mb-2">Email</h3>
                   <p className="text-sm text-muted-foreground">
-                    info@mandsaurgarlic.com
+                    info@dndglobalexports.com
                   </p>
                 </CardContent>
               </Card>
@@ -215,7 +215,7 @@ const Contact = () => {
                   <MapPin className="w-16 h-16 text-primary mx-auto mb-4" />
                   <p className="text-foreground font-semibold mb-2">Namli, Madhya Pradesh, India</p>
                   <p className="text-sm text-muted-foreground">
-                    Located in the heart of Mandsaur garlic cultivation region
+                    Dnd Global Exports - Located in the heart of Mandsaur garlic cultivation region
                   </p>
                 </div>
               </div>

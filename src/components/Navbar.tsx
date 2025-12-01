@@ -28,7 +28,7 @@ const Navbar = () => {
               <span className="text-primary-foreground font-bold text-lg md:text-xl">MG</span>
             </div>
             <div className="flex flex-col">
-              <span className="font-bold text-foreground text-sm md:text-base">Mandsaur Garlic</span>
+              <span className="font-bold text-foreground text-sm md:text-base">Dnd Global Exports</span>
               <span className="text-[10px] md:text-xs text-muted-foreground">GI Tag Certified</span>
             </div>
           </Link>

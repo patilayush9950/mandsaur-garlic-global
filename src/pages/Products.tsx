@@ -71,7 +71,7 @@ const Products = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-                About Mandsaur Garlic
+                About Our Premium Mandsaur Garlic
               </h2>
               <p className="text-muted-foreground mb-6 leading-relaxed">
                 Mandsaur garlic, cultivated in the fertile lands of Madhya Pradesh, India, is recognized worldwide for its superior quality and distinctive characteristics. Protected by GI Tag certification, this premium garlic variety is prized by international buyers for its consistent quality and excellent storage properties.
