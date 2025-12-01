@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Mail, Phone, MapPin, Facebook, Instagram, Linkedin } from "lucide-react";
+import logo from "@/assets/dnd-logo.png";
 
 const Footer = () => {
   return (
@@ -8,10 +9,12 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <div className="flex items-center space-x-2 mb-4">
-              <div className="w-10 h-10 rounded-full bg-gradient-hero flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">MG</span>
-              </div>
+            <div className="flex items-center space-x-3 mb-4">
+              <img 
+                src={logo} 
+                alt="Dnd Global Exports Logo" 
+                className="w-12 h-12 object-contain"
+              />
               <div>
                 <h3 className="font-bold text-foreground">Dnd Global Exports</h3>
                 <p className="text-xs text-muted-foreground">GI Tag Certified</p>
