@@ -12,16 +12,16 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-4">
               <img 
                 src={logo} 
-                alt="Dnd Global Exports Logo" 
+                alt="DnD Global Exports Logo" 
                 className="w-12 h-12 object-contain"
               />
               <div>
-                <h3 className="font-bold text-foreground">Dnd Global Exports</h3>
+                <h3 className="font-bold text-foreground">DnD Global Exports</h3>
                 <p className="text-xs text-muted-foreground">GI Tag Certified</p>
               </div>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
-              Premium quality Mandsaur garlic exported worldwide by Dnd Global Exports. GI Tag certified excellence from India.
+              Premium quality Mandsaur garlic exported worldwide by DnD Global Exports. GI Tag certified excellence from India.
             </p>
           </div>
 
@@ -62,7 +62,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-2">
                 <Phone size={16} className="flex-shrink-0 text-primary" />
-                <span>+91 XXX XXX XXXX</span>
+                <span>+91 7746861718</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail size={16} className="flex-shrink-0 text-primary" />
@@ -105,7 +105,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="border-t border-border mt-8 pt-6 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Dnd Global Exports. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} DnD Global Exports. All rights reserved.</p>
         </div>
       </div>
     </footer>

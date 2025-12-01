@@ -31,7 +31,7 @@ const Navbar = () => {
               className="w-10 h-10 md:w-12 md:h-12 object-contain transition-transform group-hover:scale-105"
             />
             <div className="flex flex-col">
-              <span className="font-bold text-foreground text-sm md:text-base">Dnd Global Exports</span>
+              <span className="font-bold text-foreground text-sm md:text-base">DnD Global Exports</span>
               <span className="text-[10px] md:text-xs text-muted-foreground">GI Tag Certified</span>
             </div>
           </Link>
