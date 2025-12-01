@@ -13,12 +13,12 @@ const Footer = () => {
                 <span className="text-primary-foreground font-bold text-lg">MG</span>
               </div>
               <div>
-                <h3 className="font-bold text-foreground">Mandsaur Garlic</h3>
+                <h3 className="font-bold text-foreground">Dnd Global Exports</h3>
                 <p className="text-xs text-muted-foreground">GI Tag Certified</p>
               </div>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
-              Premium quality Mandsaur garlic exported worldwide. GI Tag certified excellence from India.
+              Premium quality Mandsaur garlic exported worldwide by Dnd Global Exports. GI Tag certified excellence from India.
             </p>
           </div>
 
@@ -102,7 +102,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="border-t border-border mt-8 pt-6 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Mandsaur Garlic Export. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Dnd Global Exports. All rights reserved.</p>
         </div>
       </div>
     </footer>

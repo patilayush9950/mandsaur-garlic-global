@@ -119,7 +119,7 @@ const Home = () => {
               Global Presence
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Delivering premium Mandsaur garlic to markets worldwide
+              Dnd Global Exports - Delivering premium Mandsaur garlic to markets worldwide
             </p>
           </div>
 
