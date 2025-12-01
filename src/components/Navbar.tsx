@@ -2,6 +2,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
+import logo from "@/assets/dnd-logo.png";
 
 const Navbar = () => {
   const location = useLocation();
@@ -23,10 +24,12 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2 group">
-            <div className="w-10 h-10 md:w-12 md:h-12 rounded-full bg-gradient-hero flex items-center justify-center transition-transform group-hover:scale-105">
-              <span className="text-primary-foreground font-bold text-lg md:text-xl">MG</span>
-            </div>
+          <Link to="/" className="flex items-center space-x-3 group">
+            <img 
+              src={logo} 
+              alt="Dnd Global Exports Logo" 
+              className="w-10 h-10 md:w-12 md:h-12 object-contain transition-transform group-hover:scale-105"
+            />
             <div className="flex flex-col">
               <span className="font-bold text-foreground text-sm md:text-base">Dnd Global Exports</span>
               <span className="text-[10px] md:text-xs text-muted-foreground">GI Tag Certified</span>
