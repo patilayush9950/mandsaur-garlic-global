@@ -167,7 +167,7 @@ const Contact = () => {
                   </div>
                   <h3 className="font-semibold text-lg text-foreground mb-2">Phone</h3>
                   <p className="text-sm text-muted-foreground mb-1">
-                    +91 XXX XXX XXXX
+                    +91 7746861718
                   </p>
                   <p className="text-xs text-muted-foreground">
                     Available on WhatsApp
